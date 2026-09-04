@@ -463,7 +463,7 @@ export function App() {
         <section className="impact section-dark">
           <div className="impact-media">
             <img
-                src="/assets/WhatsApp Image 2026-09-01 at 23.10.18.jpeg"
+                src="/assets/equipe-luver-control-real.jpg"
               alt="Integrantes da Luver Control reunidos no estande da equipe"
             />
           </div>
