@@ -18,19 +18,19 @@ const members = [
 
 const photos = [
   {
-    src: "/assets/robot-competition-01.jpg",
+    src: "./assets/robot-competition-01.jpg",
     alt: "Robô Dual Fire da equipe 10298 pontuando no campo da temporada 2026",
     label: "Em campo",
     className: "wide",
   },
   {
-    src: "/assets/robot-competition-02.jpg",
+    src: "./assets/robot-competition-02.jpg",
     alt: "Detalhe do mecanismo do robô Dual Fire com as bolas amarelas da temporada 2026",
     label: "Mecanismo de coleta",
     className: "tall",
   },
   {
-    src: "/assets/robot-competition-03.jpg",
+    src: "./assets/robot-competition-03.jpg",
     alt: "Robô 10298 durante uma partida no Regional de Osasco",
     label: "Regional de Osasco",
     className: "",
@@ -182,7 +182,7 @@ export function App() {
 
           <div className="hero-media">
             <img
-              src="/assets/robot-competition-01.jpg"
+              src="./assets/robot-competition-01.jpg"
               alt="Robô Dual Fire da Luver Control em ação no Regional Brasil de 2026"
             />
 
@@ -302,7 +302,7 @@ export function App() {
             aria-label="Ampliar foto do mecanismo do Dual Fire"
           >
             <img
-              src="/assets/robot-competition-02.jpg"
+              src="./assets/robot-competition-02.jpg"
               alt="Mecanismo de coleta do Dual Fire"
             />
 
@@ -463,7 +463,7 @@ export function App() {
         <section className="impact section-dark">
           <div className="impact-media">
             <img
-                src="/assets/equipe-luver-control-real.jpg"
+                src="./assets/equipe-luver-control-real.jpg"
               alt="Integrantes da Luver Control reunidos no estande da equipe"
             />
           </div>
