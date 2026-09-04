@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#151515"/>
+  <path d="M0 570h1200v230H0z" fill="#252525"/>
+  <path d="M0 635h1200M120 570v230M360 570v230M600 570v230M840 570v230M1080 570v230" stroke="#ff6b00" stroke-opacity=".28" stroke-width="3"/>
+  <g transform="translate(420 185)"><path d="M80 330 145 85h270l65 245-92 95H172z" fill="#d9d3ca" stroke="#ff6b00" stroke-width="10"/><path d="m145 85 105-55 165 55-30 78H165z" fill="#303030" stroke="#ff6b00" stroke-width="10"/><circle cx="230" cy="103" r="22" fill="#ff6b00"/><circle cx="330" cy="103" r="22" fill="#f3f0ea"/><path d="M205 425v105M365 425v105M70 300 0 250M470 300l90-60" stroke="#ff6b00" stroke-width="24"/><path d="M165 250h290M205 320h210" stroke="#151515" stroke-width="18"/><text x="180" y="385" fill="#151515" font-family="sans-serif" font-size="44" font-weight="700">10298</text></g>
+  <text x="54" y="82" fill="#ff6b00" font-family="sans-serif" font-size="24" letter-spacing="6">DUAL FIRE / EM CAMPO</text>
+</svg>

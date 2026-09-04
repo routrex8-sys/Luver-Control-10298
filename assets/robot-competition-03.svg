@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760">
+  <rect width="1000" height="760" fill="#111111"/>
+  <rect y="590" width="1000" height="170" fill="#303030"/>
+  <circle cx="790" cy="155" r="210" fill="#ff6b00" fill-opacity="0.22"/>
+  <g transform="translate(240 190)">
+    <path d="M40 360 L110 95 L420 95 L488 360 L398 435 L130 435 Z" fill="#f3f0ea" stroke="#ff6b00" stroke-width="10"/>
+    <path d="M110 95 L205 30 L380 30 L420 95 L390 195 L140 195 Z" fill="#343434" stroke="#ff6b00" stroke-width="10"/>
+    <circle cx="235" cy="125" r="28" fill="#ff6b00"/>
+    <circle cx="350" cy="125" r="28" fill="#f3f0ea"/>
+    <path d="M130 260 H450 M170 330 H410 M150 435 V535 M390 435 V535 M40 330 L0 270 M488 330 L550 270" fill="none" stroke="#ff6b00" stroke-width="22"/>
+  </g>
+  <text x="52" y="80" fill="#f3f0ea" font-family="sans-serif" font-size="25" letter-spacing="6">REGIONAL DE OSASCO</text>
+</svg>

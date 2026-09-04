@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#202020"/>
+  <path d="M0 760 800 610v390H0z" fill="#ff6b00" opacity=".8"/>
+  <g transform="translate(105 160)"><rect x="70" y="100" width="450" height="500" rx="12" fill="#d9d3ca" stroke="#ff6b00" stroke-width="12"/><path d="M115 145h360v150H115z" fill="#303030"/><circle cx="205" cy="220" r="46" fill="#ff6b00"/><circle cx="385" cy="220" r="46" fill="#f3f0ea"/><path d="M70 390h450M145 600V720M445 600V720" stroke="#151515" stroke-width="22"/><path d="M210 390h240M210 465h180" stroke="#ff6b00" stroke-width="18"/><text x="170" y="555" fill="#151515" font-family="sans-serif" font-size="50" font-weight="700">DUAL</text></g>
+  <text x="44" y="920" fill="#151515" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="5">MECHANISM / 2026</text>
+</svg>
